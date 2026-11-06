@@ -8,7 +8,7 @@
 
 [Mở notebook `day01_spam_ml_dl_embedding_llm.ipynb` trên Colab](https://colab.research.google.com/github/VinUni-AI20k/K5-L3-Day-01-AI-Foundation-Lab/blob/main/src/day01_spam_ml_dl_embedding_llm.ipynb)
 
-> **Bài nộp:** repository GitHub `K5-L3-DAY01-HoVaTen-MSSV-AIFoundation` có thư mục `report/individual/`; chỉ nộp **link repo** trên LMS (chi tiết: [SUBMISSION.md](SUBMISSION.md)).
+> **Bài nộp:** repository GitHub `K5-L3B-DAY01-HoVaTen-MSSV-AIFoundation` có thư mục `report/individual/`; chỉ nộp **link repo** trên LMS (chi tiết: [SUBMISSION.md](SUBMISSION.md)).
 
 Bạn giải **cùng một bài toán** là phân loại SMS thành `spam` hay `ham` (tin bình thường) bằng **4 cách**, theo đúng
 lịch sử AI trong slide Ngày 1. Cuối bài, bạn so sánh 4 cách trên cùng một tập test về chất lượng, tốc độ và chi phí.
@@ -294,11 +294,11 @@ Phần 4 không bắt buộc dùng OpenAI. Thêm key vào Colab → 🔑 **Secre
 
 ## Checklist trước khi bắt đầu
 
-- [ ] Đăng nhập được tài khoản GitHub và tài khoản Google dùng cho Colab.
-- [ ] Dùng Chrome hoặc Edge phiên bản mới, Internet ổn định.
-- [ ] Có **một** API key LLM cho Phần 4 (OpenAI, Claude, Gemini, Groq hoặc OpenRouter, xem [Chọn nhà cung cấp LLM API](#chọn-nhà-cung-cấp-llm-api)). Không có key vẫn làm được Phần 0–3.
-- [ ] Biết mã khóa (`KHOA`, ví dụ `K5`), họ tên không dấu và MSSV để đặt tên repository.
-- [ ] Giấy và bút cho phần tính tay.
+- [x] Đăng nhập được tài khoản GitHub và tài khoản Google dùng cho Colab.
+- [x] Dùng Chrome hoặc Edge phiên bản mới, Internet ổn định.
+- [x] Có **một** API key LLM cho Phần 4 (OpenAI, Claude, Gemini, Groq hoặc OpenRouter, xem [Chọn nhà cung cấp LLM API](#chọn-nhà-cung-cấp-llm-api)). Không có key vẫn làm được Phần 0–3.
+- [x] Biết mã khóa (`KHOA`, ví dụ `K5`), họ tên không dấu và MSSV để đặt tên repository.
+- [x] Giấy và bút cho phần tính tay.
 
 ## Hướng dẫn từng bước
 
